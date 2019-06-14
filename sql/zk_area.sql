@@ -11,3 +11,6 @@ CREATE TABLE `zk_area` (
   PRIMARY KEY (`area_id`),
   index `idx_parent_id` (`parent_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 auto_increment=1;
+
+
+11
